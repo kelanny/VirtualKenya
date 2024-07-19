@@ -1,0 +1,15 @@
+Django
+djangorestframework
+psycopg2-binary
+django-environ
+boto3
+django-storages
+gunicorn
+django-cors-headers
+Pillow
+django-extensions
+whitenoise
+django-allauth
+drf-yasg
+pytest-django
+requests
